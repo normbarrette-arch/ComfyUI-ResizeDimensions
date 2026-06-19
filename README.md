@@ -13,7 +13,7 @@ its aspect ratio.
 **Manual:**
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/<you>/ComfyUI-ResizeDimensions.git
+git clone https://github.com/normbarrette-arch/ComfyUI-ResizeDimensions.git
 ```
 Restart ComfyUI. The node appears under **image/size** as *Resize Dimensions (W/H)*.
 
